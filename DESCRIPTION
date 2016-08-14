@@ -6,7 +6,8 @@ Authors@R: person("Kevin", "Gilds", email = "kevingilds@gmail.com",
                   role = c("aut", "cre"))
 Description: Various functions to evaluate the Get REAL! program
 Imports:
-    dplyr
+    dplyr,
+    pander
 License: GNU GENERAL PUBLIC LICENSE
 LazyData: true
 RoxygenNote: 5.0.1
