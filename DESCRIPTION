@@ -1,0 +1,12 @@
+Package: GetREAL
+Version: 0.1
+Title: Functions to determine outcome achievement for the Get REAL! program
+Version: 0.1
+Authors@R: person("Kevin", "Gilds", email = "kevingilds@gmail.com",
+                  role = c("aut", "cre"))
+Description: Various functions to evaluate the Get REAL! program
+Imports:
+    dplyr
+License: GNU GENERAL PUBLIC LICENSE
+LazyData: true
+RoxygenNote: 5.0.1
