@@ -12,7 +12,7 @@ hr_achieved <- function(Time) {
             dat <-filter(hr, Time =="Pre")
             
         } else if(Time == "Post"){
-            dat <- filter(hr, Year_Id =="Post")
+            dat <- filter(hr, Time =="Post")
         
         }
         
